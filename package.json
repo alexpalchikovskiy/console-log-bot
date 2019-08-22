@@ -1,0 +1,29 @@
+{
+  "name": "console-log-bot",
+  "version": "1.0.0",
+  "description": "For print logs (like console.log) into telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpalchikovskiy/console-log-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "console",
+    "log",
+    "logging"
+  ],
+  "author": "Alex Palchikovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexpalchikovskiy/console-log-bot/issues"
+  },
+  "homepage": "https://github.com/alexpalchikovskiy/console-log-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
